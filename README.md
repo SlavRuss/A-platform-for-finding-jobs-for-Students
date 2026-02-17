@@ -11,10 +11,15 @@
 - Git
 
 python -m venv .venv
+
 .venv\Scripts\activate
+
 Сайт:
+
 python app.py
+
 Консоль разработчика:
+
 python main.py
 
 Открыть http://127.0.0.1:5000
